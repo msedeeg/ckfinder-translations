@@ -14,9 +14,9 @@
       "maximize": "تكبير ",
       "messageTitle": "المعلومات ",
       "minimize": "تصغير ",
-      "move": "تحرك ",
+      "move": "نقل ",
       "newNameDialogTitle": "الاسم الجديد ",
-      "ok": "طيب ",
+      "ok": "نعم ",
       "pleaseWait": "برجاء الانتظار. ",
       "rememberDecision": "تذكر قراري ",
       "rename": "اعادة تسمية ",
@@ -28,8 +28,8 @@
    "units": {
       "dateFormat": "m/d/yyyy h :MM aa ",
       "dateAmPm": [
-         "أنا ",
-         "PM "
+         "صباحا ",
+         "مساء "
       ],
       "kb": "{ حجم } كيلوبايت ",
       "mb": "{ حجم } ميجابايت ",
@@ -43,13 +43,13 @@
       "countOne": "1 ملف ",
       "deleteConfirmation": "هل أنت متأكد من أنك تريد حذف ملفات { count } ؟ ",
       "fileDeleteConfirmation": "هل أنت متأكد من أنك تريد حذف الملف \"{ name }\" ؟ ",
-      "fileRenameExtensionConfirmation": "هل أنت متأكد من أنك تريد تغيير لاحقة الملف ؟  قد يصبح الملف غير قابل للاستخدام. ",
+      "fileRenameExtensionConfirmation": "هل أنت متأكد من أنك تريد تغيير صيغة الملف ؟  قد يصبح الملف غير قابل للاستخدام. ",
       "fileRenameLabel": "أدخل اسم الملف الجديد :   ",
       "filesPaneTitle": "لوحة الملفات ",
-      "filesRefresh": "تجديد الملفات ",
+      "filesRefresh": "تحديث الملفات ",
       "filterPlaceholder": "مرشح البيانات ",
       "gettingFileData": "جاري الحصول على بيانات الملف. ",
-      "overwrite": "احلال ",
+      "overwrite": "استبدال ",
       "loadingFilesPane": {
          "title": "تحميل ... ",
          "text": "جاري تحميل الملفات. "
